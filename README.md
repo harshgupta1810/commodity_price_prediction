@@ -1,4 +1,4 @@
-```markdown
+
 # Commodity Price Prediction
 
 Welcome to the **Commodity Price Prediction** project! This initiative aims to forecast commodity prices using advanced machine learning techniques. The project encompasses data collection, exploratory data analysis (EDA), model training, and evaluation of results.
